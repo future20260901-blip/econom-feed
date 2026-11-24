@@ -1,1 +1,8 @@
-{"testOnly":true,"project":"ECONOM","schema":"connectivity-test-v1","offers":[],"message":"Synthetic connectivity probe; no real prices"}
+{
+  "testOnly": true,
+  "project": "ECONOM",
+  "schema": "connectivity-test-v1",
+  "offers": [],
+  "message": "Synthetic connectivity probe; no real prices",
+  "signedFeed": "https://future20260901-blip.github.io/econom-feed/synthetic/manifest.json"
+}

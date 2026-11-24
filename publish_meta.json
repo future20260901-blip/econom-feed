@@ -1,0 +1,110 @@
+{
+  "preparedAt": "2026-11-24T10:00:56.681012+00:00",
+  "mode": "synthetic",
+  "siteUrl": "https://future20260901-blip.github.io/econom-feed",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "connection-test.json",
+      "sha256": "ec906fcd01c018d2932d4768e92a5413d862cef93d86fb11e6eff83f4184d550",
+      "bytes": 260
+    },
+    {
+      "path": "endpoints.canonical.json",
+      "sha256": "86d2ed877af78f68457913304905adc07df9c0bf7981771d5d63217f9c513500",
+      "bytes": 339
+    },
+    {
+      "path": "endpoints.json",
+      "sha256": "0a6ffa1aa88d1512d9ed65808740c1c4705678633a660f15563ec7f78f517633",
+      "bytes": 386
+    },
+    {
+      "path": "endpoints.json.sig",
+      "sha256": "b021abde05a79f7971fc9472abfbea4d6dbff064ba860984781dd023bd224876",
+      "bytes": 346
+    },
+    {
+      "path": "index.html",
+      "sha256": "eda90508997d12c8d8632f10129fd4b084a1d33e59f713f40c72fc4319080187",
+      "bytes": 293
+    },
+    {
+      "path": "README.md",
+      "sha256": "7e81d281288c696fbf6eb3736c226fd14968ddb45c3057e549979e000e362b13",
+      "bytes": 243
+    },
+    {
+      "path": "synthetic/manifest.canonical.json",
+      "sha256": "7fb1ada692e38bc0ea99595d0d2064b2f879e794da9e7e08f0294b9900dfe4d6",
+      "bytes": 2338
+    },
+    {
+      "path": "synthetic/manifest.json",
+      "sha256": "12f7c2f7998fa94c51ef6669c7ca14fa04c3faeefac1b6c23e555bb1651662c1",
+      "bytes": 3048
+    },
+    {
+      "path": "synthetic/manifest.json.sig",
+      "sha256": "7baad5dcc9eb1b54ea1618b9eb0b532bd5120716dc51f11b136733bc7814919f",
+      "bytes": 346
+    },
+    {
+      "path": "synthetic/regions/ekb/catalog.json",
+      "sha256": "eb39c1295060b6537e48dced50a3b31f23a0c7f42cd7ae0fd28a31bde33b1be2",
+      "bytes": 583
+    },
+    {
+      "path": "synthetic/regions/ekb/catalog.json.gz",
+      "sha256": "3ff4ca8427e2e70f32677c57955339eb3adf935667be25a3d2d0e023802ed2ed",
+      "bytes": 347
+    },
+    {
+      "path": "synthetic/regions/kzn/catalog.json",
+      "sha256": "835cf4b531a62ab919a9cfc1137e3044d9e81ba66e5dbc8964435a3ade2c01d7",
+      "bytes": 583
+    },
+    {
+      "path": "synthetic/regions/kzn/catalog.json.gz",
+      "sha256": "012a9ca2fd48b006f6d36bb11d81910789b93676ff7d40a4eb9d0398be9e5eb2",
+      "bytes": 348
+    },
+    {
+      "path": "synthetic/regions/msk/catalog.json",
+      "sha256": "8d41e8c8948ecd5e7e67b2d52440506891c5b085c044a2c817e6ef3bc2ddb156",
+      "bytes": 4330
+    },
+    {
+      "path": "synthetic/regions/msk/catalog.json.gz",
+      "sha256": "38e3302626e7dc9a0446b7f718dd8e4a595c022d6b4379493a96c9f6f83271cb",
+      "bytes": 1015
+    },
+    {
+      "path": "synthetic/regions/nsk/catalog.json",
+      "sha256": "aa89bb9f7b9e5de2f1bfe11f2d3fe9761ea87d01e9a9cfdc94b309f54f9022fd",
+      "bytes": 583
+    },
+    {
+      "path": "synthetic/regions/nsk/catalog.json.gz",
+      "sha256": "68454fb02cf2a4583b342379e627d11a0535bfe342115620f69ba27b9ffe4668",
+      "bytes": 347
+    },
+    {
+      "path": "synthetic/regions/spb/catalog.json",
+      "sha256": "cc6d54017b9e061d1ecc48a22af811b7b7d44289f8b6d7f2677a3e3d2d43dfba",
+      "bytes": 583
+    },
+    {
+      "path": "synthetic/regions/spb/catalog.json.gz",
+      "sha256": "25456acf06e287f7bba93e0af2b9c679b18cf186fc647a680a9bc2b23a768dec",
+      "bytes": 347
+    }
+  ],
+  "signatureVerifiedLocal": true,
+  "publishRealPrices": false,
+  "cloudflareForbidden": true
+}
